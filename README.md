@@ -49,8 +49,8 @@ A library of data structures in C.
 + Data Structures
   + 线性表
     + [数组实现](https://github.com/JohnSmithGeek-coder/Data-Structures/tree/main/lists/ArrayList)
-    + [单链表](lists\SinglyLinkedList\README.md)
-    + [循环链表](lists\CyclicLinkedList\README.md)
-    + [双向链表](lists\DoublyLinkedList\README.md)
-    + [双向循环链表](lists\DoublyCyclicLinkedList\README.md)
+    + [单链表](https://github.com/JohnSmithGeek-coder/Data-Structures/tree/main/lists/SinglyLinkedList)
+    + [循环链表](https://github.com/JohnSmithGeek-coder/Data-Structures/tree/main/lists/CyclicList)
+    + [双向链表](https://github.com/JohnSmithGeek-coder/Data-Structures/tree/main/lists/DoublyLinkedList)
+    + [双向循环链表](https://github.com/JohnSmithGeek-coder/Data-Structures/tree/main/lists/DoublyCyclicLinkedList)
 
