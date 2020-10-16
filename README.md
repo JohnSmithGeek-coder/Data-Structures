@@ -56,5 +56,9 @@ A library of data structures in C and C++.
       + [双向循环链表](https://github.com/JohnSmithGeek-coder/Data-Structures/tree/main/C/lists/DoublyCyclicLinkedList)
   + C++
     + [栈](https://github.com/JohnSmithGeek-coder/Data-Structures/tree/fd65c9cd94c46763a73898f70dbf77984e3010b8/C%2B%2B/stack)
+      + [数组实现](https://github.com/JohnSmithGeek-coder/Data-Structures/tree/fd65c9cd94c46763a73898f70dbf77984e3010b8/C%2B%2B/stack/ArrayImplementation)
+      + [链表实现](https://github.com/JohnSmithGeek-coder/Data-Structures/tree/fd65c9cd94c46763a73898f70dbf77984e3010b8/C%2B%2B/stack/LinkedListImplementation)
     + [队列](https://github.com/JohnSmithGeek-coder/Data-Structures/tree/fd65c9cd94c46763a73898f70dbf77984e3010b8/C%2B%2B/queue)
+      + [数组实现](https://github.com/JohnSmithGeek-coder/Data-Structures/tree/fd65c9cd94c46763a73898f70dbf77984e3010b8/C%2B%2B/queue/CircularArrayImplementation)
+      + [链表实现](https://github.com/JohnSmithGeek-coder/Data-Structures/tree/fd65c9cd94c46763a73898f70dbf77984e3010b8/C%2B%2B/queue/LinkedListImplementation)
 
