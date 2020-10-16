@@ -2,7 +2,7 @@
 
 -------------------
 
-A library of data structures in C.
+A library of data structures in C and C++.
 
 ####  概述
 
@@ -10,7 +10,7 @@ A library of data structures in C.
 
 这是一个关于数据结构的项目，本人系北京化工大学计算机专业大二学生，在数据结构课堂上老师多次强调让我们每学完一种数据结构就去建立一个自己的关于这种数据结构的**库**，我感觉这是一个很powerful的理念，但是，仅仅去自娱自乐的建立这些库，或者单纯为了完成作业而去建立这些库则显得格外的无聊🙃，所以我在github上发起了这个项目。旨在希望有越来越多的同学看到这个项目，并通过github加入到这个项目中来，通过我们共同的努力，建立起一些**编码和接口更加规范，功能更加丰富，实用性更强的库**😉。除此之外，有一件我们不得不去思考的事情，那就是我们建立的这些库到底能够用来做什么，如果我们废了那么大的劲写了一个从代码量上看非常强大的库，却在实际应用时发现他鲜有用武之地（或者仅仅用这些库去解决了OJ上的一些问题），还有比这更加让人失落的事吗😟，所以我更希望通过此项目来积极探索这些**库的实际应用**，可以通过各种奇思妙想利用这些库做一些东西出来，所以，我需要各位同学的加入，通过**Teamwork**来做一些比做作业更加有意思的事情😏！
 
-本项目主要使用C语言进行开发，但是如果你熟悉C++面向对象方法，非常欢迎你成为此项目的合作者或者将你使用C++面向对象机制写的库提交到此项目🌹。
+本项目主要使用C和C++进行开发，非常欢迎你成为此项目的合作者🌹。
 
 #### 通过Github进行团队协作
 
@@ -47,10 +47,14 @@ A library of data structures in C.
 目前已完成部分：
 
 + Data Structures
-  + 线性表
-    + [数组实现](https://github.com/JohnSmithGeek-coder/Data-Structures/tree/main/lists/ArrayList)
-    + [单链表](https://github.com/JohnSmithGeek-coder/Data-Structures/tree/main/lists/SinglyLinkedList)
-    + [循环链表](https://github.com/JohnSmithGeek-coder/Data-Structures/tree/main/lists/CyclicList)
-    + [双向链表](https://github.com/JohnSmithGeek-coder/Data-Structures/tree/main/lists/DoublyLinkedList)
-    + [双向循环链表](https://github.com/JohnSmithGeek-coder/Data-Structures/tree/main/lists/DoublyCyclicLinkedList)
+  + C
+    + [线性表](https://github.com/JohnSmithGeek-coder/Data-Structures/tree/fd65c9cd94c46763a73898f70dbf77984e3010b8/C/lists)
+      + [数组实现](https://github.com/JohnSmithGeek-coder/Data-Structures/tree/main/C/lists/ArrayList)
+      + [单链表](https://github.com/JohnSmithGeek-coder/Data-Structures/tree/main/C/lists/SinglyLinkedList)
+      + [循环链表](https://github.com/JohnSmithGeek-coder/Data-Structures/tree/main/C/lists/CyclicList)
+      + [双向链表](https://github.com/JohnSmithGeek-coder/Data-Structures/tree/main/C/lists/DoublyLinkedList)
+      + [双向循环链表](https://github.com/JohnSmithGeek-coder/Data-Structures/tree/main/C/lists/DoublyCyclicLinkedList)
+  + C++
+    + [栈](https://github.com/JohnSmithGeek-coder/Data-Structures/tree/fd65c9cd94c46763a73898f70dbf77984e3010b8/C%2B%2B/stack)
+    + [队列](https://github.com/JohnSmithGeek-coder/Data-Structures/tree/fd65c9cd94c46763a73898f70dbf77984e3010b8/C%2B%2B/queue)
 
