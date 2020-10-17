@@ -40,7 +40,7 @@ Queue<ElementType, n>::Queue()
 template <class ElementType, int n>
 Queue<ElementType, n>::~Queue()
 {
-    delete arr;
+    delete [] arr;
 }
 
 template <class ElementType, int n>
