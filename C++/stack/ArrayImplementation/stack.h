@@ -37,7 +37,7 @@ Stack<ElementType, n>::Stack(/* args */)
 template <class ElementType, int n>
 Stack<ElementType, n>::~Stack()
 {
-    delete arr;
+    delete [] arr;
 }
 
 template <class ElementType, int n>
